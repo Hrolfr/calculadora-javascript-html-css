@@ -1,4 +1,4 @@
-# Calculadora :computer:
+# Calculadoras :computer:
 
 ### Feita com:
 
