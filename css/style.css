@@ -16,3 +16,20 @@ form legend {
     background-color: #e8e8e8;
 }
 
+form label {
+    display: block;
+    font-size: 11px;
+ }
+ 
+ form input {
+    width: 100%;
+    border: solid #ccc 1px;
+    font-size: 11px;
+    margin-bottom: 10px;
+ }
+ 
+ form input.botao {
+    display: block;
+    width: auto;
+    float: right;
+ }
