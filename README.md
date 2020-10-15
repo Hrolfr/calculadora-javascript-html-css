@@ -1,6 +1,6 @@
 # Calculadoras :computer:
 
-### Feita com:
+### Feitas com:
 
 - JavaScript
 - HTML
