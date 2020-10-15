@@ -1,0 +1,18 @@
+form fieldset {
+
+    margin: 10px auto 10px auto;
+    width: 40%;
+    border: solid black 1px;
+    padding: 3%;
+
+}
+
+form legend {
+    padding: 6px;
+    margin: 10px;
+    border: solid black 1px;
+    font-size: 90%;
+    font-weight: bold;
+    background-color: #e8e8e8;
+}
+
